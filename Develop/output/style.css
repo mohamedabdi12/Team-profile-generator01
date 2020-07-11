@@ -11,4 +11,5 @@
 .employee-card {
     box-shadow: 10px 10px 5px grey;
     margin: 10px;
+    width: 20%;
 }
